@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Mistry — Data Analyst | Quality Assurance | Customer and User Insights | Finance
 
-Welcome to my GitHub! I'm a data analyst with a strong foundation in data-driven decision-making, blending 8.5 years of total experience — including 3+ years in data analytics focused on supply chain, logistics, and last-mile delivery.
+Welcome to my GitHub! I'm a data analyst with a strong foundation in data-driven decision-making, blending 8.5 years of total experience — including 3+ years in data analytics focused on supply chain, logistics, and last-mile delivery, quality assurance, gathering and researching user and customer insights.
 
 ## 🔍 About Me
 
@@ -9,7 +9,9 @@ Welcome to my GitHub! I'm a data analyst with a strong foundation in data-driven
   - Previous experience in **quality assurance**, **financial auditing**, and **customer experience**
 - 🧠 Analytical thinker who thrives on **problem-solving**, **process optimization**, and **data storytelling**
 - 🎓 Master's in **Data Analytics & Information Systems Management (2020)**
+- 🌍 Passionate about **Supply Chain, Last-Mile Logistics & Data-Driven Solutions, User Research & Experience Analytics, Quality Assurance, Real-Time Data Monitoring, Segmentation, Geo & Location Intelligence and Machine Learning for Operations**
 - 🧪 Completed **Le Wagon's Data Analytics Bootcamp (2025)** with hands-on project experience across the data pipeline
+- 🧠 Curious by nature. Precise by discipline.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,5 +53,7 @@ Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction
 
 ---
 Feel free to explore my pinned projects below and reach out if you'd like to collaborate, share feedback, or just talk data!
+
+**“Without data, you're just another person with an opinion.” – W. Edwards Deming*
 
 📬 **Let's connect!** [LinkedIn]([#](https://www.linkedin.com/in/amit-mistry-14795a87/)) | [Email](mistryamit03@gmail.com)
