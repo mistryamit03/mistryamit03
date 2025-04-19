@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Amit Mistry — Data Analyst | Quality Assurance | Customer and User Insights | Finance
 
-👋 Welcome to My GitHub Profile — Where Data Meets Impact 🚚📊 I'm a Data Analyst driven by curiosity and powered by 8.5+ years of cross-functional experience — blending data analytics, supply chain & last-mile logistics, quality assurance, and user insight research. 
-🔍 I specialise in turning messy data into meaningful strategy — whether it's building robust KPI's, crafting insightful dashboards, or developing ML models that uncover hidden opportunities. 
-💡 My mission? To bridge the gap between data and decision-making, and help businesses scale smarter through accurate, actionable, and elegant data solutions.
+👋 Welcome to My GitHub Profile — Where Data Meets Impact 🚚📊
+
+Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years of cross-functional experience — blending **data analytics**, **supply chain & last-mile logistics**, **quality assurance**, and **user insight research**.
+
+🔍 I specialize in turning messy data into meaningful strategy — whether it's building **robust KPIs**, crafting **insightful dashboards**, or developing **machine learning models** that uncover hidden opportunities.
+
+💡 My mission? To bridge the gap between **data and decision-making**, and help businesses scale smarter through **accurate, actionable, and elegant data solutions**.
+
 
 ## 🔍 About Me
 
