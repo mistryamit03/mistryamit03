@@ -56,4 +56,4 @@ Feel free to explore my pinned projects below and reach out if you'd like to col
 
 **“Without data, you're just another person with an opinion.” – W. Edwards Deming*
 
-📬 **Let's connect!** [LinkedIn]([#](https://www.linkedin.com/in/amit-mistry-14795a87/)) | [Email](mistryamit03@gmail.com)
+📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/amit-mistry-14795a87/) | [Email](mistryamit03@gmail.com)
