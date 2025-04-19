@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Mistry — Data Analyst | Quality Assurance | Customer and User Insights | Finance
 
-Welcome to my GitHub! I'm a data analyst with a strong foundation in data-driven decision-making, blending 8.5 years of total experience — including 3+ years in data analytics focused on supply chain, logistics, and last-mile delivery, quality assurance, gathering and researching user and customer insights.
+Welcome to my GitHub! I'm a data analyst with a strong foundation in data-driven decision-making, blending 8.5 years of total experience — including 3+ years in data analytics focused on supply chain, logistics, and last-mile delivery, quality assurance, gathering and researching user and customer insights. From building robust KPIs and ensuring data accuracy to developing impactful dashboards and machine learning models, I thrive on transforming raw data into clear, actionable strategies.
 
 ## 🔍 About Me
 
