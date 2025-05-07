@@ -45,7 +45,7 @@ Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction
 `Agile` | `Kanban` | `JIRA` | `Confluence` | `HP-ALM`
 
 ### 🌐 Other Tools
-`Streamlit` | `FiveTran` | `Zapier` | `Google Analytics` | `GTM`
+`Streamlit` | `FiveTran` | `Zapier` | `Google Analytics` | `Google Tag Manager` `GTM`
 
 ## 📈 Business Knowledge
 
