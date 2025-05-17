@@ -30,7 +30,7 @@ Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years o
 
 ### 🧠 Data Science & Machine Learning
 `Python` | `Pandas` | `Scikit-Learn` | `NumPy` | `Matplotlib` | `Jupyter Notebook`  
-Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction Models`, `Category Normalization`
+Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction Models`, `Category Normalization`, `Sentiment Analysis`
 
 ### 🔧 Data Collection, Cleaning & Preprocessing
 `Web Scraping` | `Data Wrangling` | `Feature Engineering` | `Anomaly Detection` | `Data Annotation`
