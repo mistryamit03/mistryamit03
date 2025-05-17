@@ -4,7 +4,7 @@
 
 Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years of cross-functional experience — blending **data analytics**, **supply chain & last-mile logistics**, **quality assurance**, and **user insight research**.
 
-🔍 I specialize in turning messy data into meaningful strategy — whether it's building **robust KPIs**, crafting **insightful dashboards**, or developing **machine learning models** that uncover hidden opportunities.
+🔍 I specialise in turning messy data into meaningful strategy — whether it's building **robust KPIs**, crafting **insightful dashboards**, or developing **machine learning models** that uncover hidden opportunities.
 
 💡 My mission? To bridge the gap between **data and decision-making**, and help businesses scale smarter through **accurate, actionable, and elegant data solutions**.
 
@@ -18,7 +18,8 @@ Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years o
 - 🎓 Master's in **Data Analytics & Information Systems Management (2020)**
 - 🌍 Passionate about **Supply Chain, Last-Mile Logistics & Data-Driven Solutions, User Research & Experience Analytics, Quality Assurance, Real-Time Data Monitoring, Segmentation, Geo & Location Intelligence and Machine Learning for Operations**
 - 🧪 Completed **Le Wagon's Data Analytics Bootcamp (2025)** with hands-on project experience across the data pipeline
-- 🧠 Curious by nature. Precise by discipline.
+- 🧠 Curious by nature. Precise by discipline, someone who naturally takes ownership.
+- 🧪 I thrive in environments where **learning is continuous**, there is **room for error-making**, **impact is visible**,**ideas are encouraged** and **data is at the centre of decision-making**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -30,7 +31,7 @@ Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years o
 
 ### 🧠 Data Science & Machine Learning
 `Python` | `Pandas` | `Scikit-Learn` | `NumPy` | `Matplotlib` | `Jupyter Notebook`  
-Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction Models`, `Category Normalization`, `Sentiment Analysis`
+Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction Models`, `Category Normalisation`, `Sentiment Analysis`
 
 ### 🔧 Data Collection, Cleaning & Preprocessing
 `Web Scraping` | `Data Wrangling` | `Feature Engineering` | `Anomaly Detection` | `Data Annotation`
