@@ -8,6 +8,8 @@ Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years o
 
 💡 My mission? To bridge the gap between **data and decision-making**, and help businesses scale smarter through **accurate, actionable, and elegant data solutions**.
 
+💪 Outside of analytics, I’m deeply passionate about ***callisthenics — a sport that’s taught me discipline, patience, and consistency**. What started as curiosity became a daily practice that reshaped not just my strength, but my mindset. I see a strong parallel between training and data — both **demand precision, iteration, and the drive to improve a little every day**. This balance between **analytical thinking and athletic growth keeps me grounded, focused, and always striving for progress — whether in code or in movement**.
+
 
 ## 🔍 About Me
 
