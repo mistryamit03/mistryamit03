@@ -26,7 +26,7 @@ Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years o
 ## 🛠️ Tech Stack & Tools
 
 ### 📦 Databases & Data Warehousing
-`PostgreSQL` | `Google BigQuery` | `DBT` | `DuckDB` | `Databricks` | `AWS Athena`| `Amazon S3` | `Cloud Computing (AWS, GCP)`
+`PostgreSQL` | `Google BigQuery` | `DBT` | `DuckDB` | `Snowflake` | `AWS Athena`| `Amazon S3` | `Cloud Computing (AWS, GCP)`
 
 ### 📊 Data Analysis & Visualization
 `Power BI` | `Metabase` | `Looker Studio` | `Qlik Sense` | `Tableau` | `Google Sheets` | `QGIS` | `SPSS` | `AWS Quicksight`
