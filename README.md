@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit Mistry — Data Analyst | Quality Assurance | Customer and User Insights | Reporting Analytics | Product-Ops| Finance
+# 👋 Hi, I'm Amit Mistry | Data Analyst | Quality Assurance | Customer and User Insights | Reporting Analytics | Product-Ops| Finance
 
 👋 Welcome to My GitHub Profile — Where Data Meets Impact 🚚📊
 
