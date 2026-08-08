@@ -59,7 +59,7 @@ Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction
 ## 🌍 Languages
 
 - English (C-2 Fluent)  
-- German (B1)
+- German (Verhandlungssicher)
 
 ---
 Feel free to explore my pinned projects below and reach out if you'd like to collaborate, share feedback, or just talk data!
