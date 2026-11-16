@@ -1,69 +1,111 @@
-# 👋 Hi, I'm Amit Mistry | Data Analyst | Quality Assurance | Customer and User Insights | Reporting Analytics | Product-Ops| Finance
+<p align="center">
+  <img src="assets/pipeline-card.svg" width="340" alt="How I build automation that holds up: rules detect, AI explains, human decides" />
+  &nbsp;
+  <img src="assets/terminal-card.svg" width="520" alt="Amit Mistry, Data and Automation Analyst based in Berlin" />
+</p>
 
-👋 Welcome to My GitHub Profile — Where Data Meets Impact 🚚📊
+<h2 align="center">Data &amp; Automation Analyst with a QA backbone</h2>
 
-Hi there! I'm a **Data Analyst** driven by curiosity and powered by 8.5+ years of cross-functional experience — blending **data analytics**, **supply chain & last-mile logistics**, **quality assurance**, and **user insight research**.
+<p align="center"><i>I turn messy manual operations into trusted, automated reporting and AI workflows that teams actually use.</i></p>
 
-🔍 I specialise in turning messy data into meaningful strategy — whether it's building **robust KPIs**, crafting **insightful dashboards**, or developing **machine learning models** that uncover hidden opportunities.
-
-💡 My mission? To bridge the gap between **data and decision-making**, and help businesses scale smarter through **accurate, actionable, and elegant data solutions**.
-
-💪 Outside of analytics, I’m deeply passionate about ***callisthenics — a sport that’s taught me discipline, patience, and consistency**. What started as curiosity became a daily practice that reshaped not just my strength, but my mindset. I see a strong parallel between training and data — both **demand precision, iteration, and the drive to improve a little every day**. This balance between **analytical thinking and athletic growth keeps me grounded, focused, and always striving for progress — whether in code or in movement**.
-
-
-## 🔍 About Me
-
-- 💼 8.5 years of professional experience, including:
-  - 3+ years in **data analytics** across **supply chain**, **logistics**, and **last-mile delivery**
-  - Previous experience in **quality assurance**, **financial auditing**, and **customer experience**
-- 🧠 Analytical thinker who thrives on **problem-solving**, **process optimization**, and **data storytelling**
-- 🎓 Master's in **Data Analytics & Information Systems Management (2020)**
-- 🌍 Passionate about **Supply Chain, Last-Mile Logistics & Data-Driven Solutions, User Research & Experience Analytics, Quality Assurance, Real-Time Data Monitoring, Segmentation, Geo & Location Intelligence and Machine Learning for Operations**
-- 🧪 Completed **Le Wagon's Data Analytics Bootcamp (2025)** with hands-on project experience across the data pipeline
-- 🧠 Curious by nature. Precise by discipline, someone who naturally takes ownership.
-- 🧪 I thrive in environments where **learning is continuous**, there is **room for error-making**, **impact is visible**,**ideas are encouraged** and **data is at the centre of decision-making**
-
-## 🛠️ Tech Stack & Tools
-
-### 📦 Databases & Data Warehousing
-`PostgreSQL` | `Google BigQuery` | `DBT` | `DuckDB` | `Snowflake` | `AWS Athena`| `Amazon S3` | `Cloud Computing (AWS, GCP)`
-
-### 📊 Data Analysis & Visualization
-`Power BI` | `Metabase` | `Looker Studio` | `Qlik Sense` | `Tableau` | `Google Sheets` | `QGIS` | `SPSS` | `AWS Quicksight`
-
-### 🧠 Data Science & Machine Learning
-`Python` | `Pandas` | `Scikit-Learn` | `NumPy` | `Matplotlib` | `Jupyter Notebook`  
-Techniques: `Classification`, `Regression`, `Statistical Modelling`, `Prediction Models`, `Category Normalisation`, `Sentiment Analysis`, `ARMIA Model Revenue Prediction`
-
-### 🔧 Data Collection, Cleaning & Preprocessing
-`Web Scraping` | `Data Wrangling` | `Feature Engineering` | `Anomaly Detection` | `Data Annotation`
-
-### ✅ Testing & Validation
-`A/B Testing` | `API Testing (Postman, Insomnia)` | `Manual & Automated QA`
-
-### 💻 Development & Version Control
-`Git` | `GitHub` | `VS Code` | `IntelliJ`
-
-### 📋 Project Management
-`Agile` | `Kanban` | `JIRA` | `Confluence` | `HP-ALM`
-
-### 🌐 Other Tools
-`Streamlit` | `FiveTran` | `Zapier` | `Google Analytics` | `Google Tag Manager` `GTM`
-
-## 📈 Business Knowledge
-
-- KPI Development: **CAC, retention, attribution, funnel analysis**
-- Business Metrics: **Revenue/Costs/Turnover**, **Procurement**, **Warehousing**, **Distribution**
-- Advanced analytics: **Cohort analysis**, **User engagement**, **Operational dashboards**
-
-## 🌍 Languages
-
-- English (C-2 Fluent)  
-- German (Verhandlungssicher)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-mistry-14795a87/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mistryamit03@gmail.com"><img src="https://img.shields.io/badge/Email-121826?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.datascienceportfol.io/mistryamit03"><img src="https://img.shields.io/badge/Portfolio-4FD1B5?style=for-the-badge&logo=googlechrome&logoColor=121826" alt="Portfolio" /></a>
+</p>
 
 ---
-Feel free to explore my pinned projects below and reach out if you'd like to collaborate, share feedback, or just talk data!
 
-*“Without data, you're just another person with an opinion.” – W. Edwards Deming*
+### What I fix for your team
+
+The spreadsheets nobody trusts, the tickets nobody sorts, the reports that eat half a day. I started in QA, so I don't stop at something that demos well. I stop when it holds up.
+
+| Your problem | What I build | Proof |
+|---|---|---|
+| Reports that eat half a day | Reporting structure and automated dashboards | Bettermile: **50% less analysis time** |
+| Slow, manual recurring processes | SQL and workflow automation | Bettermile: benchmarking **30% faster** |
+| Defects and data nobody trusts | Automated validation checks and tagging rules | Bettermile: **40% fewer user-reported defects** |
+| Money leaking through a broken process | Root-cause analysis and finance reporting | Bettermile: traced a billing and API-tracking gap, **revenue accuracy +5%** |
+| Unstructured requests and late exceptions | LLM triage and exception monitoring | The two builds below |
+
+---
+
+### Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Vet Tele-Health AI Ticket Triage](https://github.com/mistryamit03/vet-telehealth-ai-ticket-triage)**
+
+**Problem:** support messages arrive unstructured, so manual triage is slow and inconsistent.<br>
+**Built:** a local LLM with schema-constrained output sorts 300 messy tickets into category, priority and a one-line summary, then SQL analyses the workload.<br>
+**Result:** 300 of 300 tickets structured, zero invalid labels. Accuracy is deliberately not claimed: schema-valid is not the same as correct.
+
+`Python` `Ollama` `Llama 3.2` `SQLite` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+**[Margin and Shipping Exception Monitor](https://github.com/mistryamit03/AI_Assisted_Margin_and_Shipping_Exception_Monitor)**
+
+**Problem:** loss-making orders and late shipments are spotted too late, and reviewed by hand.<br>
+**Built:** SQL rules flag exceptions in BigQuery, a memory table separates new from known issues, n8n routes each run to ALERT or MONITOR, and a local LLM emails a plain-English summary.<br>
+**Result:** one manual run surfaces what matters and what to do next.
+
+`BigQuery` `SQL` `n8n` `Ollama` `Looker Studio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Gamelytics KPI Console](https://github.com/mistryamit03/gamelytics-powerbi)**
+
+**Problem:** product teams need one view of engagement, monetisation and retention.<br>
+**Built:** a Power BI model over 1M users, 9.6M logins and 405K A/B records, covering DAU/MAU, ARPU and D1/D7/D30 cohorts.<br>
+**Result:** a documented KPI console with data lineage and DAX measures.
+
+`Power BI` `DAX` `Data modelling`
+
+</td>
+<td width="50%" valign="top">
+
+**[Prello Real Estate ELT](https://github.com/mistryamit03/Data-Analytics-End-to-End-Project---Prello)**
+
+**Problem:** raw property data is not decision-ready.<br>
+**Built:** a group project pipeline moving raw data through staging and mart layers in dbt on BigQuery, reported in Looker Studio.<br>
+**Result:** clean, tested models ready for analysis.
+
+`dbt` `BigQuery` `SQL` `Looker Studio`
+
+</td>
+</tr>
+</table>
+
+Also: [GORNATION Growth Analytics](https://github.com/mistryamit03/Gornation-calisthenics-growth-analytics), marketing and fulfilment analytics for a calisthenics brand (simulated data).
+
+---
+
+### Now building
+
+**AI Operations Exception Agent.** The Margin Monitor, rebuilt as a bounded agent: SQL rules detect, the agent investigates with read-only tools and recommends an action, and a human approves anything consequential.
+
+---
+
+### Stack
+
+**Core:** SQL, BigQuery, AWS Athena, AWS QuickSight<br>
+**Working:** n8n, Zapier, Claude and other LLMs, Ollama, Looker Studio, Power BI, Tableau<br>
+**Foundation:** Python, dbt, Snowflake<br>
+**Ways of working:** JIRA, Confluence, Git
+
+---
+
+### Off the clock
+
+I train callisthenics, chasing the planche. Same discipline as the work: show up, iterate, don't fake the rep.
+
+**Got a messy process that needs fixing?** [Let's talk.](mailto:mistryamit03@gmail.com)
 
 📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/amit-mistry-14795a87/) | [Email](mistryamit03@gmail.com)
