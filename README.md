@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/pipeline-card.svg" width="340" alt="How I build automation that holds up: rules detect, AI explains, human decides" />
+  <img src="pipeline-card.svg" width="340" alt="How I build automation that holds up: rules detect, AI explains, human decides" />
   &nbsp;
-  <img src="assets/terminal-card.svg" width="520" alt="Amit Mistry, Data and Automation Analyst based in Berlin" />
+  <img src="terminal-card.svg" width="520" alt="Amit Mistry, Data and Automation Analyst based in Berlin" />
 </p>
 
 <h2 align="center">Data &amp; Automation Analyst with a QA backbone</h2>
